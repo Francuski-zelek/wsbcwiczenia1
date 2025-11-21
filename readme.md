@@ -39,12 +39,12 @@ Główne cele projektu:
 * HTML5
 * CSS3 (BEM, zmienne CSS)
 * JavaScript ES2022
-* Node
-* npm 8.19.3
+* Node.js **v18.12.1**
+* npm **8.19.3**
 
 **Build tools**
-* Vite 4.5.0
-* ESLint 8.57.0
+* Vite **4.5.0**
+* ESLint **8.57.0**
 
 ## 🖥️ Wymagania systemowe 
 |Komponent| Minimalne| Rekondemowane|
@@ -63,5 +63,6 @@ Główne cele projektu:
 git clone https://example.com/projectx.git
 cd projectx
 ```
+
 
 
