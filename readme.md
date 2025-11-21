@@ -40,6 +40,7 @@ Główne cele projektu:
 * CSS3 (BEM, zmienne CSS)
 * JavaScript ES2022
 * Node
+* npm 8.19.3
 
 **Build tools**
 * Vite 4.5.0
@@ -62,4 +63,5 @@ Główne cele projektu:
 git clone https://example.com/projectx.git
 cd projectx
 ```
+
 
